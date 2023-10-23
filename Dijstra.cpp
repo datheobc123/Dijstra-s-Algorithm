@@ -84,7 +84,8 @@ int main()
     dijkstra (src) ; 
 }
 
-/* Ma tran:
+/*
+ Ma tran:
 n la 9 (9x9)
 Nguon la A ( tuc la 0 )
 
@@ -98,5 +99,4 @@ Nguon la A ( tuc la 0 )
 999 999 999 9 999 999 10 0 999
 999 999 2 999 7 6 999 999 0
 
-/**
-
+*/ 
